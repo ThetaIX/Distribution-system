@@ -1,2 +1,8 @@
 packet_processor.o
 main.o
+shell.nix
+data_distributor
+output.pcap
+result_1.pcap
+result_2.pcap
+result_3.pcap
